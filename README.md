@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -86,3 +87,6 @@ GEMINI_API_URL=https://generativelanguage.googleapis.com/v1/models/gemini-pro:ge
 ```
 
 You can select which service to use when uploading emails.
+=======
+# email-classifier
+>>>>>>> 7c39303ae81418594efba5b37ff92d0fcc46f075
